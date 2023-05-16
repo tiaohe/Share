@@ -5,129 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55adc27d-6d5a-49d4-a2fb-59b2852ea085" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/AOP/AOP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/AOP/Note/OperationLogAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/AOP/Note/useNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/AOP/usePackageName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/QuickUse/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/filter/MyFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/interceptor/MyInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/listener/MyHttpRequestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/listener/MyHttpSessionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/listener/MyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/InterceptorListenerFilter/流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/RedisConfig2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/apiUse.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/redisTemplate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Algorithm/PdqSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Algorithm/PdqSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Algorithm/threeQuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Algorithm/threeQuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/ChatRoom/GroupChatClinet.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/ChatRoom/GroupChatClinet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/ChatRoom/GroupChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/ChatRoom/GroupChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/CountDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/CountDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/CountDownLatchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/CyclicBarrirTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/CyclicBarrirTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/DiningPhilosophers_Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/DiningPhilosophers_Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/DiningPhilosophers_Semaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/DiningPhilosophers_Semaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/Executors/ThreadPool1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Executors/ThreadPool1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/Executors/ThreadPool2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Executors/ThreadPool2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/Executors/ThreadPool3.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Executors/ThreadPool3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/Executors/ThreadPool4.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Executors/ThreadPool4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/Executors/ThreadPool_seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Executors/ThreadPool_seven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/FizzBuzz_Semaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/FizzBuzz_Semaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/FizzBuzz_wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/FizzBuzz_wait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/FooBar_Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/FooBar_Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/FooBar_Sleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/FooBar_Sleep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/FooBar_SynchronizedAddWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/FooBar_SynchronizedAddWait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/FooBar_Yield.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/FooBar_Yield.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/Future/CompletableFutrue.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Future/CompletableFutrue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/Future/CompletableFutureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Future/CompletableFutureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/H2O_ReentrantLockAddCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/H2O_ReentrantLockAddCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/H2O_Semaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/H2O_Semaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/SemaphoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/SemaphoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/ZeroEvenOdd_AtomicIntegerAddYield.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/ZeroEvenOdd_AtomicIntegerAddYield.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/ZeroEvenOdd_CyclicBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/ZeroEvenOdd_CyclicBarrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/ZeroEvenOdd_ReentrantLockAddCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/ZeroEvenOdd_ReentrantLockAddCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/ZeroEvenOdd_Semaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/ZeroEvenOdd_Semaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/ZeroEvenOdd_SynchronizedAddWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/ZeroEvenOdd_SynchronizedAddWait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Concurrency/juc.png" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/juc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/FourBigInterface/now/MathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/FourBigInterface/now/MathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/FourBigInterface/now/Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/FourBigInterface/now/Study.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/FourBigInterface/old/ConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/FourBigInterface/old/ConsumerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/FourBigInterface/old/FunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/FourBigInterface/old/FunctionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/FourBigInterface/old/FuntionShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/FourBigInterface/old/FuntionShow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/FourBigInterface/old/PredicateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/FourBigInterface/old/PredicateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/FourBigInterface/old/SupplierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/FourBigInterface/old/SupplierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/FourBigInterface/old/TestSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/FourBigInterface/old/TestSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/CglibProxy/CglibClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/CglibProxy/CglibClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/CglibProxy/CglibProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/CglibProxy/CglibProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/CglibProxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/CglibProxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/JdkProxy/JdkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/JdkProxy/JdkClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/JdkProxy/JdkInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/JdkProxy/JdkInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/JdkProxy/JdkProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/JdkProxy/JdkProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/JdkProxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/JdkProxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/StaticProxy/StaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/StaticProxy/StaticClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/StaticProxy/StaticInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/StaticProxy/StaticInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/StaticProxy/StaticProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/StaticProxy/StaticProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Proxy/StaticProxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Proxy/StaticProxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Stream/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Stream/Stream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Stream/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Stream/StreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Stream/StreamStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Stream/StreamStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/Stream/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Stream/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/TimeOfJdk8/CalenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/TimeOfJdk8/CalenderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/TimeOfJdk8/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/TimeOfJdk8/DateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/TimeOfJdk8/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/TimeOfJdk8/TimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/PdqSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/PdqSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/threeQuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/threeQuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/CountDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/CountDown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/CountDownLatchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/CountDownLatchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/CyclicBarrirTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/CyclicBarrirTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/DiningPhilosophers_Lock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/DiningPhilosophers_Lock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/DiningPhilosophers_Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/DiningPhilosophers_Semaphore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool_seven$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool_seven$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool_seven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool_seven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FizzBuzz_Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FizzBuzz_Semaphore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FizzBuzz_wait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FizzBuzz_wait.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Lock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Lock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Sleep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Sleep.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_SynchronizedAddWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_SynchronizedAddWait.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Yield.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Yield.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Future/CompletableFutrue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Future/CompletableFutrue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Future/CompletableFutureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Future/CompletableFutureTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/H2O_ReentrantLockAddCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/H2O_ReentrantLockAddCondition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/H2O_Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/H2O_Semaphore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/SemaphoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/SemaphoreTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_AtomicIntegerAddYield.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_AtomicIntegerAddYield.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_CyclicBarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_CyclicBarrier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_ReentrantLockAddCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_ReentrantLockAddCondition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_Semaphore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_SynchronizedAddWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_SynchronizedAddWait.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/now/MathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/now/MathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/now/Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/now/Study.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/ConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/ConsumerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/FunctionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/FunctionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/FuntionShow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/FuntionShow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/PredicateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/PredicateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/SupplierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/SupplierTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/TestSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/TestSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/CglibProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/CglibProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkProxy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkProxy$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Stream/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stream/Stream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Stream/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stream/StreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Stream/StreamStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stream/StreamStudy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Stream/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stream/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use2/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/RedisConfig2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/RedisConfig2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/apiUse.md" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/apiUse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/redisTemplate.md" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/redisTemplate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/useNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/useNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/use/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +189,10 @@
       <workItem from="1684109432368" duration="12000" />
       <workItem from="1684125329680" duration="787000" />
       <workItem from="1684128109677" duration="131000" />
-      <workItem from="1684128487614" duration="3808000" />
+      <workItem from="1684128487614" duration="4257000" />
+      <workItem from="1684132958199" duration="445000" />
+      <workItem from="1684155163694" duration="327000" />
+      <workItem from="1684155598682" duration="665000" />
     </task>
     <servers />
   </component>
