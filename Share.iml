@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/com.soqi/junior/Study" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/com.soqi/use/BootStudy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/com.soqi/use/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/com.soqi/study/netty" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

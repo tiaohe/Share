@@ -79,5 +79,9 @@ public class StreamStudy {
         int[] ints = Arrays.stream(arr).parallel().map(s -> s * 2).toArray();
         System.out.println(Arrays.toString(ints));
     }
+
+    public int numberOfEmployeesWhoMetTarget(int[] hours, int target) {
+        return (int)Arrays.stream(hours).parallel().filter(h -> h >= target).count();
+    }
 }
 

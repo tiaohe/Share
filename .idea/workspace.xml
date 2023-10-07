@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55adc27d-6d5a-49d4-a2fb-59b2852ea085" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use2/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/RedisConfig2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/RedisConfig2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/apiUse.md" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/apiUse.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/redisTemplate.md" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/redisTemplate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/redisTemplate/useNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/BootStudy/Template/RedisTemplate/Use/useNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/use/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/use/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Anno/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/Stream/StreamStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Stream/StreamStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/filter/MyFilter1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/filter/MyFilter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testApplication.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ltnxjsyh" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -76,7 +80,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26551723" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -84,14 +88,21 @@
       <recent name="D:\idea_cache\Share\Study" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea_cache\Share\com.soqi\use\BootStudy\Template\RedisTemplate" />
       <recent name="D:\idea_cache\Share\com.soqi\use\BootStudy\InterceptorListenerFilter" />
       <recent name="D:\idea_cache\Share\com.soqi\use" />
       <recent name="D:\idea_cache\Share\com.soqi\junior" />
       <recent name="D:\idea_cache\Share\com.soqi" />
-      <recent name="D:\idea_cache\Share" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.testApplication">
+  <component name="RunManager" selected="Application.ComletableFutureTest">
+    <configuration name="ComletableFutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComletableFutureTest" />
+      <module name="Share" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PdqSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.PdqSort" />
       <module name="Share" />
@@ -118,28 +129,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.StreamStudy" />
+    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamTest" />
       <module name="Share" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Study" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FourBigInterface.now.Study" />
-      <module name="Share" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FourBigInterface.now.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComletableFutureTest" />
+        <item itemvalue="Application.StreamTest" />
         <item itemvalue="Spring Boot.testApplication" />
         <item itemvalue="Application.PdqSort" />
         <item itemvalue="Application.StreamDemo" />
-        <item itemvalue="Application.StreamStudy" />
-        <item itemvalue="Application.Study" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +185,21 @@
       <workItem from="1684132958199" duration="445000" />
       <workItem from="1684155163694" duration="327000" />
       <workItem from="1684155598682" duration="665000" />
+      <workItem from="1684195360094" duration="195000" />
+      <workItem from="1686971216910" duration="297000" />
+      <workItem from="1687653180192" duration="113000" />
+      <workItem from="1689640714535" duration="821000" />
+      <workItem from="1689771042637" duration="2477000" />
+      <workItem from="1689825361337" duration="1325000" />
+      <workItem from="1689989329812" duration="977000" />
+      <workItem from="1690033508263" duration="1096000" />
+      <workItem from="1690035900240" duration="685000" />
+      <workItem from="1690036625719" duration="20000" />
+      <workItem from="1690119472160" duration="44000" />
+      <workItem from="1690122217041" duration="985000" />
+      <workItem from="1690807553531" duration="356000" />
+      <workItem from="1690850175569" duration="1314000" />
+      <workItem from="1696646065012" duration="3623000" />
     </task>
     <servers />
   </component>
