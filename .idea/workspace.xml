@@ -5,14 +5,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55adc27d-6d5a-49d4-a2fb-59b2852ea085" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Anno/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/DistributedIdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/EnumClass/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/EnumClass/ExtOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/EnumClass/IOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/EnumClass/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/lookapi/GenericFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/lookapi/RONG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/lookapi/showData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/策略模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/策略模式/PaymentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/策略模式/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/策略模式/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/策略模式/PaymentStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/MaxDotProductofTwoSubsequences1458.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/osTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/study/netty/OptionalUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Share.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Share.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/Anno/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/EnumClass/Anno/Enum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/Stream/StreamStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Stream/StreamStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/filter/MyFilter1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/filter/MyFilter2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/PdqSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/PdqSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/threeQuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithm/threeQuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Anno/Enum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ChatRoom/GroupChatClinet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ChatRoom/GroupChatClinet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ChatRoom/GroupChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ChatRoom/GroupChatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComletableFutureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComletableFutureTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/CountDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/CountDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/CountDownLatchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/CountDownLatchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/CyclicBarrirTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/CyclicBarrirTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/DiningPhilosophers_Lock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/DiningPhilosophers_Lock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/DiningPhilosophers_Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/DiningPhilosophers_Semaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool_seven$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool_seven$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool_seven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool_seven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FizzBuzz_Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FizzBuzz_Semaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FizzBuzz_wait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FizzBuzz_wait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Lock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Lock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Sleep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Sleep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_SynchronizedAddWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_SynchronizedAddWait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Yield.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/FooBar_Yield.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Future/CompletableFutrue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Future/CompletableFutrue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Future/CompletableFutureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Future/CompletableFutureTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/H2O_ReentrantLockAddCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/H2O_ReentrantLockAddCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/H2O_Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/H2O_Semaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/SemaphoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/SemaphoreTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_AtomicIntegerAddYield.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_AtomicIntegerAddYield.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_CyclicBarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_CyclicBarrier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_ReentrantLockAddCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_ReentrantLockAddCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_Semaphore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_Semaphore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_SynchronizedAddWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/ZeroEvenOdd_SynchronizedAddWait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/now/MathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/now/MathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/now/Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/now/Study.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/ConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/ConsumerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/FunctionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/FunctionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/FuntionShow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/FuntionShow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/PredicateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/PredicateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/SupplierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/SupplierTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FourBigInterface/old/TestSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FourBigInterface/old/TestSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/AOP/Note/OperationLogAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/AOP/Note/OperationLogAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/AOP/Note/useNote.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/AOP/Note/useNote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/AOP/usePackageName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/AOP/usePackageName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/QuickUse/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/QuickUse/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/filter/MyFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/filter/MyFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/interceptor/MyInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/interceptor/MyInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/listener/MyHttpRequestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/listener/MyHttpRequestListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/listener/MyHttpSessionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/listener/MyHttpSessionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/listener/MyListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterceptorListenerFilter/listener/MyListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LRUCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LRUCache$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/CglibClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/CglibClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/CglibProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/CglibProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/CglibProxy/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkProxy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkProxy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/JdkProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/JdkProxy/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/StaticClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/StaticClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/StaticInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/StaticInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/StaticProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/StaticProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Proxy/StaticProxy/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stream/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stream/Stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stream/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stream/StreamDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stream/StreamStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stream/StreamStudy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stream/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stream/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Template/RedisTemplate/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Template/RedisTemplate/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Template/RedisTemplate/RedisConfig2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Template/RedisTemplate/RedisConfig2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Template/RedisTemplate/useNote.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Template/RedisTemplate/useNote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimeOfJdk8/CalenderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TimeOfJdk8/CalenderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimeOfJdk8/DateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TimeOfJdk8/DateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TimeOfJdk8/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TimeOfJdk8/TimeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +116,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -77,11 +173,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Study" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26551723" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -95,20 +194,13 @@
       <recent name="D:\idea_cache\Share\com.soqi" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComletableFutureTest">
-    <configuration name="ComletableFutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComletableFutureTest" />
-      <module name="Share" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PdqSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.PdqSort" />
+  <component name="RunManager" selected="Application.showData">
+    <configuration name="ExtOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumClass.ExtOperation" />
       <module name="Share" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.*" />
+          <option name="PATTERN" value="EnumClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +208,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stream.StreamDemo" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Share" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="osTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="osTest" />
+      <module name="Share" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="showData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lookapi.showData" />
       <module name="Share" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stream.*" />
+          <option name="PATTERN" value="lookapi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,27 +235,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamTest" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test" />
       <module name="Share" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Share" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="testApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComletableFutureTest" />
-        <item itemvalue="Application.StreamTest" />
-        <item itemvalue="Spring Boot.testApplication" />
-        <item itemvalue="Application.PdqSort" />
-        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.showData" />
+        <item itemvalue="Application.osTest" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ExtOperation" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +304,19 @@
       <workItem from="1690122217041" duration="985000" />
       <workItem from="1690807553531" duration="356000" />
       <workItem from="1690850175569" duration="1314000" />
-      <workItem from="1696646065012" duration="3623000" />
+      <workItem from="1696646065012" duration="9291000" />
+      <workItem from="1696678686896" duration="662000" />
+      <workItem from="1696725472526" duration="3483000" />
+      <workItem from="1696742857280" duration="877000" />
+      <workItem from="1696748682426" duration="5287000" />
+      <workItem from="1696765800599" duration="2258000" />
+      <workItem from="1697165256486" duration="506000" />
+      <workItem from="1697177004934" duration="728000" />
+      <workItem from="1697421396592" duration="925000" />
+      <workItem from="1697680598932" duration="850000" />
+      <workItem from="1697771272532" duration="834000" />
+      <workItem from="1698060123363" duration="5225000" />
+      <workItem from="1698109209782" duration="628000" />
     </task>
     <servers />
   </component>
