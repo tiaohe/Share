@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55adc27d-6d5a-49d4-a2fb-59b2852ea085" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/test/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/uniqueId/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/study/leetcode/MaxDotProductofTwoSubsequences1458.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/MaxDotProductofTwoSubsequences1458.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MaxDotProductofTwoSubsequences1458.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MaxDotProductofTwoSubsequences1458.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lookapi/GeneratorMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lookapi/GeneratorMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lookapi/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lookapi/Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lookapi/showData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lookapi/showData.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,13 +101,27 @@
       <recent name="D:\idea_cache\Share\com.soqi" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.showData">
-    <configuration name="ExtOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumClass.ExtOperation" />
+  <component name="RunManager" selected="Application.DIYSort">
+    <configuration name="DIYSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DIYSort" />
+      <module name="Share" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="Share" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="策略模式.Main" />
       <module name="Share" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EnumClass.*" />
+          <option name="PATTERN" value="策略模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,15 +130,14 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="uniqueId.Test" />
       <module name="Share" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="osTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="osTest" />
-      <module name="Share" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uniqueId.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,26 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test" />
-      <module name="Share" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.showData" />
-        <item itemvalue="Application.osTest" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.DIYSort" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ExtOperation" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.showData" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +230,11 @@
       <workItem from="1698714264764" duration="1088000" />
       <workItem from="1698754761580" duration="565000" />
       <workItem from="1698800795630" duration="115000" />
+      <workItem from="1699072262071" duration="677000" />
+      <workItem from="1699268019763" duration="1797000" />
+      <workItem from="1699273564394" duration="216000" />
+      <workItem from="1699318803943" duration="891000" />
+      <workItem from="1699411289023" duration="3681000" />
     </task>
     <servers />
   </component>

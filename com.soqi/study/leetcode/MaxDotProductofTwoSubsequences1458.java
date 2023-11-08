@@ -2,7 +2,9 @@ import java.util.stream.IntStream;
 
 public class MaxDotProductofTwoSubsequences1458 {
     public static void main(String[] args) {
-
+        /**
+         *
+         */
     }
 
     public int maxDotProduct(int[] nums1, int[] nums2) {
