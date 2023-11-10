@@ -1,9 +1,11 @@
+import cn.hutool.core.comparator.VersionComparator;
+
 import java.util.Arrays;
 import java.util.Comparator;
 
 public class DIYSort {
     public static void main(String[] args) {
-        String[] versions = {"1.1.1", "2", "1.2.3", "1.1", "2.0", "1"};
+        String[] versions = {"1.1.1",  "1.1.2", "2", "1.2.3", "1.1", "2.0", "1"};
 
         // 使用自定义的比较器按照版本号进行排序
         Arrays.sort(versions, new VersionComparator());

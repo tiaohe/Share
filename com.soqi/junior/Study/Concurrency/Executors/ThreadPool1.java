@@ -9,21 +9,11 @@ public class ThreadPool1 {
         //固定线程池
         ExecutorService pool = Executors.newFixedThreadPool(5);
         for(int i = 0; i < 5; i++){
-            pool.submit(new Runnable() {
-                @Override
-                public void run() {
-                    System.out.println(" 线程名" + Thread.currentThread().getName());
-                }
-            });
+            pool.submit(() -> System.out.println(" 线程名" + Thread.currentThread().getName()));
         }
 
         for(int i = 0; i < 8; i++){
-            pool.submit(new Runnable() {
-                @Override
-                public void run() {
-                    System.out.println(" 线程名" + Thread.currentThread().getName());
-                }
-            });
+            pool.submit(() -> System.out.println(" 线程名" + Thread.currentThread().getName()));
 
         }
 

@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55adc27d-6d5a-49d4-a2fb-59b2852ea085" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/uniqueId/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/study/leetcode/MaxDotProductofTwoSubsequences1458.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/MaxDotProductofTwoSubsequences1458.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MaxDotProductofTwoSubsequences1458.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MaxDotProductofTwoSubsequences1458.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lookapi/GeneratorMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lookapi/GeneratorMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lookapi/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lookapi/Generic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lookapi/showData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lookapi/showData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Share.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Share.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Executors/ThreadPool1.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Concurrency/Executors/ThreadPool1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/DIYSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/DIYSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/TimeOfJdk8/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/TimeOfJdk8/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/study/leetcode/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.soqi/study/leetcode/osTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/osTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DIYSort$VersionComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DIYSort$VersionComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DIYSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DIYSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/osTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/osTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
       <recent name="D:\idea_cache\Share\com.soqi" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DIYSort">
+  <component name="RunManager" selected="Application.osTest">
     <configuration name="DIYSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DIYSort" />
       <module name="Share" />
@@ -142,26 +143,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="showData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lookapi.showData" />
+    <configuration name="osTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="osTest" />
       <module name="Share" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lookapi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.osTest" />
         <item itemvalue="Application.DIYSort" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.showData" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +230,10 @@
       <workItem from="1699273564394" duration="216000" />
       <workItem from="1699318803943" duration="891000" />
       <workItem from="1699411289023" duration="3681000" />
+      <workItem from="1699440025551" duration="570000" />
+      <workItem from="1699491616491" duration="349000" />
+      <workItem from="1699492475327" duration="46000" />
+      <workItem from="1699586786635" duration="1560000" />
     </task>
     <servers />
   </component>

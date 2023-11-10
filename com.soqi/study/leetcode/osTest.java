@@ -20,5 +20,7 @@ public class osTest {
             System.out.println(String.format("当前系统版本是:%s", os));
         }
 
+        System.out.println(Integer.MAX_VALUE);
+
     }
 }
