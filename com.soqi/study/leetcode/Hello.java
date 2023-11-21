@@ -198,14 +198,12 @@ public class Hello {
     }
 
     int rev(int num) {
-        int ret = 0;
-        while (num > 0) {
-            ret = ret * 10 + num % 10;
-            num /= 10;
-        }
-        return ret;
+        return revHelper(num, 0);
     }
 
+    int revHelper(int num, int revNum) {
+        return num == 0 ? revNum : revHelper(num / 10, revNum * 10 + num % 10);
+    }
 
 
 }

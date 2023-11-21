@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55adc27d-6d5a-49d4-a2fb-59b2852ea085" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.soqi/junior/Study/策略模式/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.soqi/junior/Study/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/junior/Study/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com.soqi/study/leetcode/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.soqi/study/leetcode/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Concurrency/Executors/ThreadPool1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test$Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test$Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test$Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test$Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test$Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test$Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TimeOfJdk8/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TimeOfJdk8/TimeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +240,8 @@
       <workItem from="1700097031498" duration="133000" />
       <workItem from="1700121937313" duration="757000" />
       <workItem from="1700224494233" duration="2525000" />
-      <workItem from="1700527499903" duration="1049000" />
+      <workItem from="1700527499903" duration="1844000" />
+      <workItem from="1700566328413" duration="409000" />
     </task>
     <servers />
   </component>
