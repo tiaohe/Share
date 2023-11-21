@@ -1,3 +1,7 @@
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Scanner;
+
 public class Test {
 
     static abstract class Shape{
@@ -46,8 +50,14 @@ public class Test {
         double getArea() {
             return Math.PI * Math.pow(radius, 2);
         }
-    }
+    }Scanner sc  = new Scanner(new InputStream() {
+        @Override
+        public int read() throws IOException {
+            return 0;
+        }
+    });
     public static void main(String[] args) {
+
         Shape shape = new Circle(5.0);
         System.out.println(shape.getArea());
         shape = new Rectangle(2,3);
