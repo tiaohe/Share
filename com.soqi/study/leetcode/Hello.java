@@ -184,13 +184,15 @@ public class Hello {
 
         return res;
     }
-    private static final int MOD = (int)1e9 + 7;
+
+    private static final int MOD = (int) 1e9 + 7;
+
     public int countNicePairs(int[] nums) {
         var map = new HashMap<Integer, Integer>();
         int res = 0;
 
         for (int num : nums) {
-            int rev = rev(num), v = map.getOrDefault(num - rev,  0);
+            int rev = rev(num), v = map.getOrDefault(num - rev, 0);
             map.put(num - rev, v + 1);
             res = (res + v) % MOD;
         }
@@ -203,6 +205,57 @@ public class Hello {
 
     int revHelper(int num, int revNum) {
         return num == 0 ? revNum : revHelper(num / 10, revNum * 10 + num % 10);
+    }
+
+    public int[] findDiagonalOrder(List<List<Integer>> nums) {
+        var res = new ArrayList<int[]>();
+        for (int i = 0; i < nums.size(); ++i) {
+            for (int j = 0; j < nums.get(i).size(); ++j) {
+                res.add(new int[]{i + j, i, nums.get(i).get(j)});
+            }
+        }
+        var comparator = Comparator.<int[]>comparingInt(a -> a[0]).thenComparingInt(b -> -b[1]);
+        return res.stream().sorted(comparator).mapToInt(a -> a[2]).toArray();
+    }
+
+    public List<Boolean> checkArithmeticSubarrays(int[] nums, int[] l, int[] r) {
+        return IntStream.range(0, l.length)
+                .mapToObj(i -> isValid(nums, l[i], r[i]))
+                .collect(Collectors.toList());
+    }
+
+    boolean isValid(int[] nums, int start, int end) {
+        var arr = IntStream.range(start, end + 1)
+                .map(i -> nums[i])
+                .sorted()
+                .toArray();
+
+        var diff = arr[1] - arr[0];
+        return IntStream.range(1, arr.length - 1)
+                .allMatch(i -> arr[i] + diff == arr[i + 1]);
+    }
+
+    public int maxCoins(int[] piles) {
+        Arrays.sort(piles);
+        int sum = 0, n = piles.length / 3;
+        for (int i = n; i < piles.length; i += 2) {
+            sum += piles[i];
+        }
+
+        return sum;
+    }
+
+    public int[] getSumAbsoluteDifferences(int[] nums) {
+        int preSum = 0,n = nums.length;
+        var ret = new int[n];
+        int sum = Arrays.stream(nums).sum();
+
+        for (int i = 0; i < nums.length; i++) {
+            ret[i] = nums[i] * (i * 2 - n) + sum - preSum * 2;
+            preSum += nums[i];
+        }
+        return ret;
+
     }
 
 
